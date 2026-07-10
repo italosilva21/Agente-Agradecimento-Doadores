@@ -1,0 +1,11 @@
+# Google APIs
+google-api-python-client==2.149.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.1
+
+# AI - Google Gemini
+google-genai==1.14.0
+
+# Utilities
+python-dotenv==1.1.0
+rich==14.0.0
